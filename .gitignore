@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+node_modules/
+dist/
+*.duckdb
+data/raw/
+data/processed/
+.pytest_cache/
+.vscode/
+.idea/
+*.swp
